@@ -20,7 +20,7 @@
 |Use CSS Animation|2.5%|N|
 |Security Report|5%|Y|
 
-# 作品網址：https://midterm-chatroom-c0c07.web.app/
+# 作品網址：//hidden
 
 ## Website Detail Description
 >基本上我是直接把lab6的東西拿來改一改，所以整個架構差不多。
